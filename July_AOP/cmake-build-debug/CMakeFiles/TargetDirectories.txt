@@ -1,0 +1,3 @@
+/Users/kathryn/ClionProjects/July_AOP/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/kathryn/ClionProjects/July_AOP/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/kathryn/ClionProjects/July_AOP/cmake-build-debug/CMakeFiles/July_AOP.dir
