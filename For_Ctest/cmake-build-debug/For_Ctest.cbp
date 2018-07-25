@@ -82,7 +82,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/kathryn/ClionProjects/For_Ctest/main.cpp">
+		<Unit filename="/Users/kathryn/ClionProjects/For_Ctest/Zero/2_3.cpp">
 			<Option target="For_Ctest"/>
 		</Unit>
 		<Unit filename="/Users/kathryn/ClionProjects/For_Ctest/CMakeLists.txt">

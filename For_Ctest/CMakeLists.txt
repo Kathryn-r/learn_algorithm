@@ -3,4 +3,4 @@ project(For_Ctest)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(For_Ctest main.cpp)
+add_executable(For_Ctest Zero/2_3.cpp)
